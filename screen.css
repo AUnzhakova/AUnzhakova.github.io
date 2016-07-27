@@ -101,12 +101,14 @@ footer p{
 }
 
 @media screen and (max-width: 720px){
-	header{ background-size: 510px; height: 350px; }
+	header{ background-size: 510px; height: 350px; 
+/* 		background: #93E1FF url(logo510.png) no-repeat center center; */
+	}
 }
 
 @media screen and (max-width: 570px){
 	/* Header */
-	header{ height: 260px; background-size: 300px; }
+	header{ height: 260px;  background-size: 300px; /* background: #93E1FF url(logo300.png) no-repeat center center; */ }
 	
 	/* Section - Team */
 	section.team article{
