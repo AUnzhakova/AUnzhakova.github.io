@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="689px" height="240px" viewBox="0 0 689 240" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3 (11970) - http://www.bohemiancoding.com/sketch -->
+    <title>logo</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="iPad-Landscape-Copy" sketch:type="MSArtboardGroup" transform="translate(-186.000000, -190.000000)">
+            <g id="logo" sketch:type="MSLayerGroup" transform="translate(178.000000, 153.000000)">
+                <path d="M79,258 C79,258 81.9999976,268 97,268 C112.000002,268 625,272 639,270 C653,268 652,255 652,255" id="Line" stroke="#FF655D" stroke-width="12" stroke-linecap="round" sketch:type="MSShapeGroup"></path>
+                <text id="IFEASPLAY" sketch:type="MSTextLayer" font-family="Thonburi" font-size="120" font-weight="normal">
+                    <tspan x="64" y="259" fill="#FF655D">I</tspan>
+                    <tspan x="93.0625" y="259" fill="#393939">FEASPLA</tspan>
+                    <tspan x="615.765625" y="259" fill="#FF655D">Y</tspan>
+                </text>
+                <text id="L" sketch:type="MSTextLayer" font-family="Thonburi" font-size="120" font-weight="normal" fill="#393939">
+                    <tspan x="0" y="258">L</tspan>
+                </text>
+                <path d="M60,169 C60.2097547,152.074 63.5176245,147.025399 78,138" id="Path-2" stroke="#FF655D" stroke-width="12" stroke-linecap="round" sketch:type="MSShapeGroup" transform="translate(69.000000, 153.500000) scale(-1, 1) translate(-69.000000, -153.500000) "></path>
+                <g id="Oval-1-+-Oval-2" transform="translate(605.000000, 138.000000)" sketch:type="MSShapeGroup">
+                    <circle id="Oval-1" stroke="#457181" stroke-width="2" fill="#FFFFFF" cx="16.5" cy="16.5" r="16.5"></circle>
+                    <circle id="Oval-2" fill="#393939" cx="11.5" cy="12.5" r="5.5"></circle>
+                </g>
+                <g id="Oval-1-+-Oval-2-Copy" transform="translate(663.000000, 139.000000)" sketch:type="MSShapeGroup">
+                    <circle id="Oval-1" stroke="#457181" stroke-width="2" fill="#FFFFFF" cx="16.5" cy="16.5" r="16.5"></circle>
+                    <circle id="Oval-2" fill="#393939" cx="11.5" cy="13.5" r="5.5"></circle>
+                </g>
+                <g id="animals" transform="translate(446.917969, 84.000000) rotate(54.000000) translate(-446.917969, -84.000000) translate(387.417969, 24.500000)" fill="#393939" sketch:type="MSShapeGroup">
+                    <g id="Group" transform="translate(0.000000, -0.000000)">
+                        <path d="M111.454519,28.9746522 C110.27921,26.6833478 108.956988,24.4905942 107.512337,22.3963913 L114.049992,20.3514638 C116.645465,19.563058 118.188058,16.705087 117.429004,14.0934928 C116.645465,11.4818986 113.805136,9.92972464 111.209663,10.6934928 L105.99423,12.3195797 L107.561309,7.56450725 C108.344848,4.95291304 107.047111,2.09494203 104.451638,1.30653623 C101.856165,0.518130435 99.0158354,1.82392754 98.2322963,4.43552174 L96.126535,10.3485652 C87.6055473,3.74566667 77.3705679,0.000739130435 66.8662469,0.000739130435 C41.9643951,0.000739130435 30.0399095,18.7992899 26.4160412,30.0094348 C22.2779753,42.7963913 23.5512263,57.4065362 30.0399095,69.9471159 C30.554107,70.7355217 30.8234486,71.5239275 31.3376461,72.2876957 L3.05678189,86.3804493 C-0.665028807,88.4007391 0.191967078,91.8500145 0.730650206,93.1558116 C25.8039012,132.674652 72.8407325,116.389145 83.1981399,111.412333 C125.68065,87.6616087 123.427975,49.8674058 111.454519,28.9746522 L111.454519,28.9746522 Z M78.5213909,102.296391 C69.7065761,106.731174 34.5942305,119.000739 12.3857942,92.9094348 L40.6666584,78.8166812 C41.9643951,78.0282754 44.8292099,75.5645072 42.4785926,71.252913 C40.9115144,69.1587101 39.8831193,67.0891449 38.8547243,65.2413188 C33.6637778,54.794942 32.6353827,43.0674058 35.9899095,32.8920435 C38.8547243,24.2688551 47.7185103,9.92972464 66.8417613,9.92972464 C81.1168642,9.92972464 95.1226255,19.3166812 102.370362,33.4094348 C114.294848,54.4007391 111.72386,84.7543623 78.5213909,102.296391 L78.5213909,102.296391 Z" id="Shape"></path>
+                        <ellipse id="Oval" cx="74.4812675" cy="26.1905942" rx="5.01954733" ry="5.05072464"></ellipse>
+                    </g>
+                </g>
+                <path d="M416,130 L404.5,169.5" id="Line" stroke="#393939" stroke-width="3" stroke-linecap="square" sketch:type="MSShapeGroup"></path>
+                <path d="M442.5,139 L442.5,172" id="Line" stroke="#393939" stroke-width="3" stroke-linecap="square" sketch:type="MSShapeGroup"></path>
+            </g>
+        </g>
+    </g>
+</svg>
