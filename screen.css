@@ -93,7 +93,7 @@ footer p{
 @media screen and (max-width: 1000px){
 	section.product{ 
 		height: 1200px; padding: 0;
-		background: #3A4357 url(iPhoneDragAndBuy.png) no-repeat center 100%; 
+		background: #3A4357 url(iPhoneDragAndBuy.png) no-repeat center 93%; 
 		text-align: center;
 	}
 	section.product article h2{
