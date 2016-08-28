@@ -32,7 +32,7 @@ section.team article{
 
 /* Section - Product */
 section.product{
-	background: #3A4357 url(iPhoneDragAndBuy.png) no-repeat 73% 70px;
+	background: #3A4357 url(iPhoneDragAndBuy.png) no-repeat 73% 0px;
 }
 
 section product article{
@@ -48,15 +48,18 @@ section.product article h2{
 }
 section.product article p{
 	width: 470px;
-	padding-bottom: 80px;
+/* 	padding-bottom: 80px; MARK: WITH APPSTORE BUTTON*/ 
+	padding-bottom: 50px; 
 	color: #F8F8F8;
 	font-size: 1.2em;
 }
+
 section.product article a.buttonAppStore{
 	position: relative;
 	display: block; 
-	background: url(appStore.png) no-repeat 0 0;
+/* 	background: url(appStore.png) no-repeat 0 0; MARK: WITH APPSTORE BUTTON*/
 	padding-bottom: 170px;
+	color: #F8F8F8;
 }
 
 /* Section - contact */
@@ -79,13 +82,18 @@ footer p{
 /* Media Queries */
 @media screen and (max-width: 1380px){
 	section { padding: 0 16%; }
-	section.product{ background: #3A4357 url(iPhoneDragAndBuy.png) no-repeat 85% 70px;}
+	section.product{ background: #3A4357 url(iPhoneDragAndBuy.png) no-repeat 85% 0px;}
+}
+
+@media screen and (max-width: 1146px){
+	section { padding: 0 11%; }
+	section.product{ background: #3A4357 url(iPhoneDragAndBuy.png) no-repeat 92% 0px;}
 }
 
 @media screen and (max-width: 1000px){
 	section.product{ 
-		height: 1250px; padding: 0;
-		background: #3A4357 url(iPhoneDragAndBuy.png) no-repeat center 90%; 
+		height: 1200px; padding: 0;
+		background: #3A4357 url(iPhoneDragAndBuy.png) no-repeat center 100%; 
 		text-align: center;
 	}
 	section.product article h2{
@@ -95,20 +103,24 @@ footer p{
 		display: inline-block;
 		padding-bottom: 40px;
 	}
+/*
 	section.product article a.buttonAppStore{
 		background: url(appStore.png) no-repeat center 0;
-	}
+	} MARK: WITH APPSTORE BUTTON
+*/
 }
 
 @media screen and (max-width: 720px){
-	header{ background-size: 510px; height: 350px; 
-/* 		background: #93E1FF url(logo510.png) no-repeat center center; */
+	header{ 
+		background-size: 510px; 
+		height: 350px; 
+
 	}
 }
 
 @media screen and (max-width: 570px){
 	/* Header */
-	header{ height: 260px;  background-size: 300px; /* background: #93E1FF url(logo300.png) no-repeat center center; */ }
+	header{ height: 260px;  background-size: 300px; }
 	
 	/* Section - Team */
 	section.team article{
@@ -120,21 +132,27 @@ footer p{
 	}
 	
 	/* Section - Product */
-	section.product{ height: 900px; background-size: 220px; }
+	section.product{ height: 870px; background-size: 300px; }
 	section.product article h2{
+		display: block;
 		width: auto;
-		font-size: 1.6em;
+		font-size: 1.5em;
 		padding-top: 50px;
 	} 
 	section.product article p{
 		width: 280px;
 		padding-bottom: 30px;
 		color: #F8F8F8;
-		font-size: .8em;
+		font-size: 0.8em;
 	}
+	section.product article a{
+		font-size: 0.9em;
+	}
+/*
 	section.product article a.buttonAppStore{
 		background-size: 140px;
-	}
+	} MARK: WITH APPSTORE BUTTON
+*/
 	
 	/* Section - Contact */
 	section.contact p {
