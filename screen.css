@@ -132,7 +132,7 @@ footer p{
 	}
 	
 	/* Section - Product */
-	section.product{ height: 870px; background-size: 300px; }
+	section.product{ height: 1080px; background-size: 300px; }
 	section.product article h2{
 		display: block;
 		width: auto;
@@ -143,7 +143,7 @@ footer p{
 		width: 280px;
 		padding-bottom: 30px;
 		color: #F8F8F8;
-		font-size: 0.8em;
+		font-size: 1em;
 	}
 	section.product article a{
 		font-size: 0.9em;
