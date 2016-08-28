@@ -32,7 +32,7 @@ section.team article{
 
 /* Section - Product */
 section.product{
-	background: #3A4357 url(iPhoneDragAndBuy.png) no-repeat 73% 0px;
+	background: #3A4357 url(iPhoneDragAndBuy.png) no-repeat 73% 50px;
 }
 
 section product article{
@@ -82,12 +82,12 @@ footer p{
 /* Media Queries */
 @media screen and (max-width: 1380px){
 	section { padding: 0 16%; }
-	section.product{ background: #3A4357 url(iPhoneDragAndBuy.png) no-repeat 85% 0px;}
+	section.product{ background: #3A4357 url(iPhoneDragAndBuy.png) no-repeat 85% 50px;}
 }
 
 @media screen and (max-width: 1146px){
 	section { padding: 0 11%; }
-	section.product{ background: #3A4357 url(iPhoneDragAndBuy.png) no-repeat 92% 0px;}
+	section.product{ background: #3A4357 url(iPhoneDragAndBuy.png) no-repeat 92% 50px;}
 }
 
 @media screen and (max-width: 1000px){
