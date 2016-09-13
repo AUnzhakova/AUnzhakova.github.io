@@ -48,7 +48,8 @@ section.product article h2{
 }
 section.product article p{
 	width: 470px;
-/* 	padding-bottom: 80px; MARK: WITH APPSTORE BUTTON*/ 
+/* 	MARK: WITH APPSTORE BUTTON */
+	padding-bottom: 80px; 
 	padding-bottom: 50px; 
 	color: #F8F8F8;
 	font-size: 1.2em;
@@ -57,7 +58,8 @@ section.product article p{
 section.product article a.buttonAppStore{
 	position: relative;
 	display: block; 
-/* 	background: url(appStore.png) no-repeat 0 0; MARK: WITH APPSTORE BUTTON*/
+/* 	MARK: WITH APPSTORE BUTTON */
+	background: url(appStore.png) no-repeat 0 0;
 	padding-bottom: 170px;
 	color: #F8F8F8;
 }
@@ -103,11 +105,10 @@ footer p{
 		display: inline-block;
 		padding-bottom: 40px;
 	}
-/*
+/* 	MARK: WITH APPSTORE BUTTON */
 	section.product article a.buttonAppStore{
 		background: url(appStore.png) no-repeat center 0;
-	} MARK: WITH APPSTORE BUTTON
-*/
+	} 
 }
 
 @media screen and (max-width: 720px){
@@ -148,11 +149,10 @@ footer p{
 	section.product article a{
 		font-size: 0.9em;
 	}
-/*
+/* 	MARK: WITH APPSTORE BUTTON */
 	section.product article a.buttonAppStore{
 		background-size: 140px;
-	} MARK: WITH APPSTORE BUTTON
-*/
+	} 
 	
 	/* Section - Contact */
 	section.contact p {
